@@ -1,4 +1,5 @@
-def hello():
+def hello_world():
     print("hello world")
-    print("hello")
-    print("hrithik")
+    print("hello world 2")
+
+hello_world()
